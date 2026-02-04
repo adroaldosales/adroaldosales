@@ -39,5 +39,5 @@ Actively studying Cloud Native ecosystems, Observability, and Automation through
 
 ### 🌐 Conecte-se
 <a href="https://www.linkedin.com/in/adroaldosales"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-- 📱 **WhatsApp**: [+55 (79) 99948-6727](https://wa.me/5579999486727)
+- 📱 **Phone/WhatsApp**: [+55 (79) 99948-6727](https://wa.me/5579999486727)
 - 📧 **Email**: [adroaldosales@gmail.com](mailto:adroaldosales@gmail.com)
