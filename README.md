@@ -1,4 +1,4 @@
-# 👋 Hey, eu sou o Adroaldo Sales
+# 👋 Hi, I'm Adroaldo Sales
 
 ### 🚀 IT Infrastructure | DevOps & Cloud Solutions
 Atuando na **Stefanini** e focado na evolução para ecossistemas Cloud Native, Observabilidade e Automação.
