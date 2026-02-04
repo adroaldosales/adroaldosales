@@ -8,7 +8,7 @@ Actively studying Cloud Native ecosystems, Observability, and Automation through
 
 ---
 
-### 🛠️ Stack & Ferramentas (Trilha DevOps Pro)
+### 🛠️ Stack & Tools (DevOps Pro Track)
 
 #### **Cloud & Containers**
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -22,22 +22,23 @@ Actively studying Cloud Native ecosystems, Observability, and Automation through
 ![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-#### **Observabilidade & Monitoramento**
+#### **Observability & Monitoring**
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-### 📈 O que estou praticando agora:
-- 🐧 **Linux**: Administração de sistemas e automação via terminal.
-- 🐙 **Git & GitHub**: Controle de versão e colaboração em projetos de infraestrutura.
-- 🐳 **Docker**: Criação e gerenciamento de ambientes containerizados.
-- ☸️ **Kubernetes**: Orquestração e administração de clusters para aplicações escaláveis.
+### 📈 Currently practicing:
+- 🐧 **Linux**: System administration and automation via terminal.
+- 🐙 **Git & GitHub**: Version control and collaboration on infrastructure projects.
+- 🐳 **Docker**: Containerized environment creation and management.
+- ☸️ **Kubernetes**: Orchestration and administration of clusters for scalable applications.
 
 ---
 
-### 🌐 Conecte-se
+### 📫 Connect with me
 <a href="https://www.linkedin.com/in/adroaldosales"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
 - 📱 **Phone/WhatsApp**: [+55 (79) 99948-6727](https://wa.me/5579999486727)
 - 📧 **Email**: [adroaldosales@gmail.com](mailto:adroaldosales@gmail.com)
