@@ -1,7 +1,10 @@
 # 👋 Hi, I'm Adroaldo Sales
 
 ### 🚀 IT Infrastructure | DevOps & Cloud Solutions
-Atuando na **Stefanini** e focado na evolução para ecossistemas Cloud Native, Observabilidade e Automação.
+
+### 🚀 About Me
+Current **IT Infrastructure Analyst at Stefanini**, transitioning into the DevOps world. 
+Actively studying Cloud Native ecosystems, Observability, and Automation through the **DevOps Pro** track.
 
 ---
 
