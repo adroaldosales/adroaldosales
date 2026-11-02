@@ -3,8 +3,7 @@
 ### 🚀 IT Infrastructure | DevOps & Cloud Solutions
 
 ### 🚀 About Me
-Current **IT Infrastructure Analyst at Stefanini**, transitioning into the DevOps world. 
-Actively studying Cloud Native ecosystems, Observability, and Automation through the **DevOps Pro** track.
+Senior **IT Infrastructure Analyst at ZDoc,**  transitioning into **DevOps, SRE, and Cloud environments**. Actively specializing in Cloud Native ecosystems, Observability, and Automation through a DevOps track.
 
 ---
 
